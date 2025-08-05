@@ -2,7 +2,8 @@
 
 **FTTH Multitools** adalah aplikasi desktop berbasis Python yang dirancang untuk membantu analisis dan konversi data jaringan FTTH. Aplikasi ini mendukung file **CSV dan KML**, serta menyajikan tampilan data secara langsung dan interaktif.
 
-<img width="849" height="662" alt="Screenshot 2025-08-05 164805" src="https://github.com/user-attachments/assets/aba012ac-80d6-4e59-9db1-9607b2490d5e" />
+<img width="821" height="651" alt="Screenshot 2025-08-05 170123" src="https://github.com/user-attachments/assets/54c8e0ca-95a7-48f8-9ced-6a091682db67" />
+
 
 ---
 
