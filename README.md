@@ -21,6 +21,10 @@ Ambil data placemark dengan metode copy folder yang berisi placemark dari Google
 
 ---
 
+## Virus Total
+https://www.virustotal.com/gui/file/be8652648053445e12a5bc18b160efd33e1d2ff5c7503fe4f55ec02e193572ba/
+
+---
 ## 📁 Format CSV yang Didukung
 
 File CSV harus memiliki minimal kolom:
@@ -33,5 +37,4 @@ Kolom tambahan seperti `name`, `description` akan otomatis digunakan jika tersed
 name,latitude,longitude,description
 Kantor A,-7.12345,110.12345,Deskripsi lokasi A
 Kantor B,-7.54321,110.54321,Deskripsi lokasi B
-
 
